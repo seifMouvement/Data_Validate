@@ -1,0 +1,11 @@
+{
+	"level": "agency",
+	"name": "Tag valide #1",
+	"private": true,
+	"readonly": false,
+	"scopes": [
+		"event",
+		"rate"
+	],
+	"score": 0
+}
