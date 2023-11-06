@@ -1,0 +1,9 @@
+{
+	"level": "agence",
+	"name": "Tag invalide #1",
+	"private": false,
+	"scopes": [
+		"event",
+		"rate"
+	]
+}
