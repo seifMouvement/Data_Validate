@@ -106,12 +106,6 @@ class Validator
     
 }
 
-
-$validator = new Validator($model);
-
-$valid = $validator->validate($payloadValid);
-
-
 if(!empty($_POST) && isset($_POST['btnVerif'])){
     $uploadDirectory = "C:/wamp64/www/exemple2/files/";
 
