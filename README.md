@@ -4,4 +4,4 @@ The view contains a small HTML, CSS, and JavaScript code to upload both the mode
 The JSON folder contains the files that can be used for testing.
 
 ## Screenshot
-(./index.PNG)
+![Index](./index.PNG)
